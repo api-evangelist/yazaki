@@ -26,6 +26,17 @@ No public APIs have been documented. Yazaki is a Tier 1 automotive supplier whos
 ## Common Properties
 
 - [Website](https://www.yazaki-group.com/global/)
+- [Plans](plans/yazaki-plans-pricing.yml) — API Commons Plans 0.1 (placeholder; no public pricing)
+- [RateLimits](rate-limits/yazaki-rate-limits.yml) — API Commons Rate Limits 0.1 (placeholder; no public limits)
+- [FinOps](finops/yazaki-finops.yml) — FOCUS-aligned FinOps Framework 1.0 (placeholder; no public billing surface)
+
+## Artifacts
+
+| Artifact | Path | Notes |
+|---|---|---|
+| Plans | `plans/yazaki-plans-pricing.yml` | Contact-Sales placeholder; commercial terms negotiated per contract. |
+| Rate Limits | `rate-limits/yazaki-rate-limits.yml` | Contract-scoped placeholder; no public throttling thresholds. |
+| FinOps | `finops/yazaki-finops.yml` | FOCUS-aligned placeholder; invoices issued under contract terms. |
 
 ## Maintainers
 

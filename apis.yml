@@ -18,6 +18,12 @@ apis: []
 common:
   - type: Website
     url: https://www.yazaki-group.com/global/
+  - type: Plans
+    url: plans/yazaki-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/yazaki-rate-limits.yml
+  - type: FinOps
+    url: finops/yazaki-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
