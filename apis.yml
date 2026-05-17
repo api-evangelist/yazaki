@@ -1,7 +1,7 @@
 aid: yazaki
 url: https://raw.githubusercontent.com/api-evangelist/yazaki/refs/heads/main/apis.yml
 name: Yazaki
-x-type: company
+kind: company
 description: >-
   Yazaki Corporation is a Japanese global Tier 1 automotive supplier headquartered in Tokyo. Yazaki is a leading manufacturer of automotive wiring harnesses, connectors, instrumentation, and electrical distribution systems for global automakers.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
