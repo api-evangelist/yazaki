@@ -4,6 +4,17 @@ name: Yazaki
 kind: company
 description: >-
   Yazaki Corporation is a Japanese global Tier 1 automotive supplier headquartered in Tokyo. Yazaki is a leading manufacturer of automotive wiring harnesses, connectors, instrumentation, and electrical distribution systems for global automakers.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: unknown
