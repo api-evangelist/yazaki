@@ -35,10 +35,12 @@ tags:
   - Connectors
   - Instrumentation
 created: '2026-05-06'
-modified: '2026-05-06'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.yazaki-group.com/news/
+    type: Blog
   - type: DomainSecurity
     url: security/yazaki-domain-security.yml
   - type: LinkedIn
